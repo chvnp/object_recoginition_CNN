@@ -1,8 +1,8 @@
 # Object Recoginition using CNN
 
-This project uses CNN to detect certain shapes/markers in the images. Basic purpose of this project was to detect two markers(A groove and a notch) on a robot(ABB IRB-120) which has to be matched for caliberation. These markers are usually hard to find on the robots and it requires prior knowledege of the markers actually look like. This problem was solved using a trained CNN which was train using multiple images of the markers and was improved with several test runs.
+This project uses CNN to detect certain shapes/markers in the images. Basic purpose of this project was to detect two markers(A groove and a notch) on a robot(ABB IRB-120) which has to be matched for calibration. These markers are usually hard to find on the robots and it requires prior knowledge of the markers actually look like. This problem was solved using a trained CNN which was train using multiple images of the markers and was improved with several test runs.
 
-The target was very specefic in this case however it can be used for general object recoginition as well.
+The target was very specific in this case however it can be used for general object recoginition as well.
 
 
 ### Tech
